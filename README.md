@@ -1,2 +1,2 @@
-# mobile-android
-Android client for Kadracoon. Movie guessing game for mobile users.
+# Kadracoon Mobile (Android)
+Mobile Android app for playing Kadracoon on the go.
